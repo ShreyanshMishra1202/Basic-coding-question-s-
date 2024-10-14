@@ -14,5 +14,6 @@ public class counterString {
             }
         }
         System.out.println(c);
+        sc.close();
     }
 }
